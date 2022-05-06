@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Total balance of every individual
 BALANCE = {'Wanjiru': 0.00, "Linda": 0.00, "Juma": 0.00}
 
